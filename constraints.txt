@@ -1,0 +1,5 @@
+NoTeacherOverlap
+NoRoomOverlap
+NoClassOverlap
+ValidTimeSlot
+TeacherMustTeachAssignedSubject
